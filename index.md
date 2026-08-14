@@ -2,12 +2,17 @@
 layout: default
 ---
 
-# Welcome
+# My Blog
 
-Hello! This is my personal blog.
+Welcome to my blog.
 
-I'm using GitHub Pages to write about things I'm learning, building, and thinking about.
+## Posts
 
-## Recent Posts
+{% for post in site.posts %}
+### [{{ post.title }}]({{ post.url }})
 
-I'll be writing here soon.
+{{ post.date | date: "%B %-d, %Y" }}
+
+{{ post.excerpt }}
+
+{% endfor %}
