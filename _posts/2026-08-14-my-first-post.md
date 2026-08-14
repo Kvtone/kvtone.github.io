@@ -2,7 +2,9 @@
 layout: post
 title: "My First Blog Post"
 date: 2026-08-14
-by: Alan Turing
+author: Alan Turing
+tags: [blog, personal]
+categories: [personal]
 ---
 
 # How Hello will look like from the home page!
