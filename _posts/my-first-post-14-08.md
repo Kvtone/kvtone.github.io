@@ -4,7 +4,7 @@ title: "My First Blog Post"
 date: 2026-08-14
 ---
 
-# Hello!
+# How does it look on the first page!
 
 This is my first blog post.
 
