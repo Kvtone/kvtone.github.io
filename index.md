@@ -6,8 +6,9 @@ layout: default
 
 Welcome to my blog.
 
-Link to Engine sim [View my project](./project.md)
-[Visit my website](https://kvtone.github.io/rocket-engine/)
+Link to Engine sim [View my project](./rocket-engine/)
+
+Hello [Visit my website](https://kvtone.github.io/rocket-engine/)
 
 ## Posts
 
