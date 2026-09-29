@@ -2,12 +2,12 @@
 layout: post
 title: "My First Blog Post"
 date: 2026-08-14
-author: Alan Turing
+author: kt
 tags: [blog, personal]
 categories: [personal]
 ---
 
-# How Hello will look like from the home page!
+# Page!
 
 This is my first blog post.
 I'm testing my new GitHub Pages blog.
