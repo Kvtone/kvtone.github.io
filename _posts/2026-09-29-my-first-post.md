@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My First Blog Post"
-date: 2026-08-14
+title: "Big 3 and USA"
+date: 2026-09-29
 author: kt
 tags: [blog, personal]
 categories: [personal]
